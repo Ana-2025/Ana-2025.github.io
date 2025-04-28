@@ -1,0 +1,35 @@
+* {
+    font-family: "Space Mono", calibri, sans-serif;
+}
+
+/* Titres */
+h1 {
+text-align: center;
+}
+
+h2{
+text-align: center;
+color: hsl(207, 98%, 22%);
+}
+
+/* Tables */
+table {
+border: solid 2px #2478bd;
+width: 800px;
+margin: 0 auto;
+}
+
+thead {
+background-color: hsl(207, 98%, 22%);
+color: white;
+}
+
+td {
+border-top: 1px solid #2478bd;
+}
+
+.code {
+font-family: monospace;
+background-color: #4296db;
+color: white;
+}
